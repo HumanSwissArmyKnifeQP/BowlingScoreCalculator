@@ -12,4 +12,4 @@ Running the application
 
 Running unit tests
 * In a terminal cd into the 'BowlingScoreCalculator' directory
-* Run "mvn clean test"
+* Run "mvn clean test" or "mvn test"
