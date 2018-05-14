@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="63" started-at="2018-05-14T01:11:20Z" finished-at="2018-05-14T01:11:20Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="63" started-at="2018-05-14T01:11:20Z" finished-at="2018-05-14T01:11:20Z">
+      <class name="com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest">
+        <test-method status="PASS" signature="testComputeAllOpenFrames()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest@3f0ee7cb]" name="testComputeAllOpenFrames" duration-ms="63" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testComputeAllOpenFrames -->
+        <test-method status="PASS" signature="testParseAllStrikes()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest@3f0ee7cb]" name="testParseAllStrikes" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParseAllStrikes -->
+        <test-method status="PASS" signature="testComputeTotalAllStrikes()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest@3f0ee7cb]" name="testComputeTotalAllStrikes" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testComputeTotalAllStrikes -->
+        <test-method status="PASS" signature="testParseMixedSFrames()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest@3f0ee7cb]" name="testParseMixedSFrames" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParseMixedSFrames -->
+        <test-method status="PASS" signature="testComputeAllSpares()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest@3f0ee7cb]" name="testComputeAllSpares" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testComputeAllSpares -->
+        <test-method status="PASS" signature="testParseAllOpenFrames()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest@3f0ee7cb]" name="testParseAllOpenFrames" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParseAllOpenFrames -->
+      </class> <!-- com.quocphaminc.bowlingscorecalculator.BowlingGameNGTest -->
+      <class name="com.quocphaminc.bowlingscorecalculator.FrameNGTest">
+        <test-method status="PASS" signature="testAddRoll()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.FrameNGTest@4ec6a292]" name="testAddRoll" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddRoll -->
+        <test-method status="PASS" signature="testCreateFrame()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.FrameNGTest@4ec6a292]" name="testCreateFrame" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateFrame -->
+        <test-method status="PASS" signature="testAddBonus()[pri:0, instance:com.quocphaminc.bowlingscorecalculator.FrameNGTest@4ec6a292]" name="testAddBonus" duration-ms="0" started-at="2018-05-13T18:11:20Z" finished-at="2018-05-13T18:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddBonus -->
+      </class> <!-- com.quocphaminc.bowlingscorecalculator.FrameNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
